@@ -1,0 +1,75 @@
+body {
+      background-color: #f8f9fa;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .card-header {
+      background-color: #28a745 !important; /* เขียวแบบในรูป */
+      color: white;
+      font-weight: bold;
+      font-size: 1.25rem;
+    }
+    
+    .form-label {
+      font-weight: 500;
+    }
+    
+    .input-group .btn {
+      background-color: #0d6efd;
+      border-color: #0d6efd;
+    }
+    
+    .table thead th {
+      background-color: #0d6efd;
+      color: white;
+      vertical-align: middle;
+    }
+    
+    // .btn-delete {
+    //   background-color: #dc3545;
+    //   border-color: #dc3545;
+    //   font-size: 0.85rem;
+    //   padding: 0.25rem 0.75rem;
+    // }
+    
+    .barcode-container {
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      overflow: hidden;
+    }
+    
+    .barcode-placeholder {
+      font-family: monospace;
+      font-size: 1.8rem;
+      letter-spacing: -2px;
+      line-height: 1;
+      color: #000;
+      white-space: nowrap;
+    }
+    
+    .container-main {
+      max-width: 70%;
+      margin: 2rem auto;
+    }
+
+     .black-border {
+      border-color: black;
+    }
+    
+    .card{
+        border-radius: 0px !important;
+    }
+
+    .card-header{
+        border-radius: 0px !important;
+    }
+
+    .form-control{
+        border-radius: 0px !important;
+        border-color: black !important;
+    }
+
+    
