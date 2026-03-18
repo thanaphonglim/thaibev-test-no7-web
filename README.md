@@ -1,4 +1,4 @@
-# amass-product-test-web
+# thaibev-product-test-web
 
 Frontend สำหรับระบบจัดการสินค้า พัฒนาโดยใช้ Angular
 
